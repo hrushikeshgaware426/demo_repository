@@ -199,7 +199,7 @@ GO
  
  
 -- Script for Table
-CREATE TABLE [dbo].[Demo] ([Name] nchar(10), [contact] nchar(10), [demoField] nchar(10), [demoField2] nchar(10), [demoField3] nchar(10), [demoField4] nchar(10), [demoField5] nchar(10));
+CREATE TABLE [dbo].[Demo] ([Name] nchar(10), [contact] nchar(10), [demoField] nchar(10), [demoField2] nchar(10), [demoField3] nchar(10), [demoField4] nchar(10), [demoField5] nchar(10), [demoField6] nchar(10));
 GO
  
  
